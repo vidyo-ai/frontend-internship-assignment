@@ -10,7 +10,7 @@ Part 1:
 3. Display video on the screen after the user has selected the file using canvas element. Add play/pause button in the middle of the video container and it must play/pause on clicking.
 
 Part 2: 
-1. Detect if video has audio or not, do not allow the upload if they audio is not present.
+1. Detect if video has audio or not, do not allow the upload if the audio is not present.
 2. Display the waveform for the audio in a box below it, refer diagram.
 
 Note that:
