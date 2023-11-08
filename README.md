@@ -26,5 +26,6 @@ Useful Resources
 
 Once you are done please send code github link as well as netlify/vercel link to sourabh@vidyo.ai
 
-Please find rough wireframe below, you are free to change it though
-<img width="944" alt="wireframe" src="https://github.com/vidyo-ai/frontend-internship-assignment/assets/52324797/ad1d0408-75ba-4ab2-873c-fa6eb0830923">
+Please find rough wireframe below, you are free to change it though.
+
+<img width="944" alt="wireframe" src="./wireframe.png">
